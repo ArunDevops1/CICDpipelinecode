@@ -22,3 +22,6 @@ pipeline {
 }
 
 
+
+
+#Note: Open Jenkin there select pipline option and then paste above script to pipline script space. 
